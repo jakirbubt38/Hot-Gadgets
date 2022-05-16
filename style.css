@@ -1,0 +1,33 @@
+
+.margin-area{
+    margin-top: 10%;
+}
+.background1{
+    background-image: url("img/bg-2.png");
+    background-repeat: no-repeat;
+    float: left;
+    width: 500px;
+    background-position:bottom;
+}
+.see-all-style{
+    color: orangered;
+}
+.txt-align{
+    text-align: center;
+}
+.box{
+    box-shadow: 10px 10px 10px lightgray;
+    border-radius: 5px;
+    border: none
+}
+.cat{
+    text-align: center;
+    padding: 80px 50px;
+}
+.horizontal-line{
+    width: 10px;
+    color: orangered;
+}
+.pale-img{
+    width: 350px;
+}
